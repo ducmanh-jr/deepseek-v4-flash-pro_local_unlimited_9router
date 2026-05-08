@@ -1,13 +1,13 @@
 {
   "version": 2,
   "limit": 20,
-  "revision": 1778221494532600600,
+  "revision": 1778221518650313400,
   "items": [
     {
       "id": "chat_b673130cd8d44f8590c08cf77a891ec3",
-      "revision": 1778221494532600600,
+      "revision": 1778221518650313400,
       "created_at": 1778221485095,
-      "updated_at": 1778221494532,
+      "updated_at": 1778221518650,
       "status": "streaming",
       "caller_id": "caller:10cfe66f86a50f6d",
       "account_id": "nguyenducmanh.ovaltine@gmail.com",
@@ -17,8 +17,8 @@
       "user_input": "Continue from the latest state in the attached DS2API_HISTORY.txt context. Treat it as the current working state and answer the latest user request directly.",
       "preview": "We need to continue the conversation. The history shows the user initially asked to read the entire project in `C:\\Users\\Admin\\ducmanhjr\\phat_trien_thi_giac_may...",
       "status_code": 200,
-      "elapsed_ms": 9427,
-      "detail_revision": 1778221494532600600
+      "elapsed_ms": 33544,
+      "detail_revision": 1778221518650313400
     },
     {
       "id": "chat_c9b27527b8a846b1ad75009b9f3158a9",
