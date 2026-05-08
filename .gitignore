@@ -1,7 +1,14 @@
 # Ẩn các file chứa thông tin nhạy cảm
 .env
-ds2api_bin/ds2api_v4.4.4_windows_amd64/config.json
-ds2api_bin/ds2api_v4.4.4_windows_amd64/.env
+config.json
+.env
+
+# Ẩn các thư mục công cụ riêng tư (Không cho phép tải về từ GitHub)
+9router/
+ds2api/
+ds2api_bin/
+
+# Các file rác khác
 node_modules/
 *.log
-ds2api_bin/ds2api_v4.4.4_windows_amd64/data/
+*.tmp
