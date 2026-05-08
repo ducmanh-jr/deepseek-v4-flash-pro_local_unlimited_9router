@@ -55,4 +55,3 @@ git push origin main
 *   **Cách sao lưu:** Hãy sao lưu các thư mục này ra ổ cứng ngoài hoặc một kho lưu trữ **Private** (Riêng tư) khác nếu cần dự phòng.
 
 ---
-*Tài liệu được soạn thảo bởi trợ lý Antigravity AI.*
