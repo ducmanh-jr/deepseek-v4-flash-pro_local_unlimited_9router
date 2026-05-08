@@ -1,0 +1,6 @@
+# Ẩn các file chứa thông tin nhạy cảm
+.env
+ds2api_bin/ds2api_v4.4.4_windows_amd64/config.json
+ds2api_bin/ds2api_v4.4.4_windows_amd64/.env
+node_modules/
+*.log
